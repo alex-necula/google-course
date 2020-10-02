@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# The script will work on Linux only.
 
 import os
 import sys
